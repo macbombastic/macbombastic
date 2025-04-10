@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- I'm courios and interested in modern approaches in software development.
+- I'm teaching computer science and engineering, game development, software engineering and of course AI.
 <!--
 **macbombastic/macbombastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
